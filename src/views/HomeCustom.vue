@@ -570,10 +570,9 @@
   --main-color-2: rgb(78, 95, 112);
   --main-color-3: rgb(107, 51, 118);
 
-  background: #f5f5f5; /* opcional */
+  background: #f5f5f5; 
 }
 
-/* opcional: ajustes visuales extra solo para 33 */
 .about-institucion-33 .sm-head {
   color: var(--main-color);
 }
